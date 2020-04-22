@@ -1,0 +1,10 @@
+{
+  "folders": [
+	{
+		"path": "/Users/daisuke.nagai/Repos/react-hooks-101"
+	}
+],
+  "settings": {
+    "typescript.tsdk": "node_modules/typescript/lib"
+  }
+}
